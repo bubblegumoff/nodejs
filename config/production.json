@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "bubblegumoff secret",
+  "mongoURI": "mongodb://localhost:27017/bubblegumoff",
+  "baseUrl": "http://localhost:5000"
+}
